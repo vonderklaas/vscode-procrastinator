@@ -2,7 +2,7 @@
 
 Install packages
 
-```
+```console
 yarn
 ```
 
@@ -10,9 +10,9 @@ yarn
 
 Run client
 
-```
+```console
 nvm use 16
-yarn watch (Compile TypeScript)
+yarn watch
 ```
 
 Then, https://code.visualstudio.com/docs/editor/debugging
@@ -21,7 +21,7 @@ Then, https://code.visualstudio.com/docs/editor/debugging
 
 Populate server `.env` vars
 
-```
+```console
 ACCESS_TOKEN_SECRET=
 GITHUB_CLIENT_SECRET=
 GITHUB_CLIENT_ID=
@@ -29,7 +29,7 @@ GITHUB_CLIENT_ID=
 
 Run server
 
-```
+```console
 yarn watch
 yarn dev
 ```
