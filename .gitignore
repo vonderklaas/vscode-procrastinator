@@ -1,0 +1,7 @@
+api/node_modules
+api/dist
+api/.env
+
+extension/node_modules
+extension/dist
+extension/out
