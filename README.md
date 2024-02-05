@@ -1,4 +1,4 @@
-# UI
+### UI
 
 **Sidebar UI**<br/>
 <img width="394" alt="Screenshot 2024-02-05 at 2 27 23 PM" src="https://github.com/garbalau-github/vs-code-ext/assets/53371076/44334771-d9e7-4286-aa63-4c4b1d3ccf7a">
@@ -12,9 +12,9 @@
 <img width="239" alt="Screenshot 2024-02-05 at 2 27 36 PM" src="https://github.com/garbalau-github/vs-code-ext/assets/53371076/dbf38210-9744-48c2-b66d-05ee8fb2a407">
 <br/>
 
-# Quick Start
+### Quick Start
 
-`/extension`
+Under `/extension`
 
 ```
 nvm use 16
@@ -23,9 +23,10 @@ nvm use 16
 yarn watch
 ```
 
-Run https://code.visualstudio.com/docs/editor/debugging
+Now, VS Code Run & Debug https://code.visualstudio.com/docs/editor/debugging
+<br />
 
-`/api`
+Under `/api`
 ```
 yarn watch
 ```
